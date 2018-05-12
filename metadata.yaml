@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
 description: Madame Delphine, par G.W. Cable. -- La campanule, par Miss Thackeray.
   -- Le chagrin de Tante Marguerite, par F.E. Trollope.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19703#Madame-Delphine
 gutenberg_issued: '2006-11-02'
 gutenberg_type: Text
 identifiers:
